@@ -1,0 +1,9 @@
+{
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "latest"
+    ],
+    "editor.formatOnSave": true,
+    "xd.globalEditor": false
+}

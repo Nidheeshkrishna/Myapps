@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="Group_4957" data-name="Group 4957" transform="translate(-11135 21210)">
+    <g id="Group_4956" data-name="Group 4956" transform="translate(10978 -21751)">
+      <g id="Group_4953" data-name="Group 4953" transform="translate(-10419 21613)">
+        <circle id="Ellipse_1402" data-name="Ellipse 1402" cx="31" cy="31" r="31" transform="translate(10576 -21072)" fill="#ffefcc"/>
+        <path id="Path_14166" data-name="Path 14166" d="M211.09,116.892c15.379-1.827,26.391-11.309,26.391-27.179,0-.019-22.941-13.049-22.941-13.049L194.755,96.238Z" transform="translate(10399.606 -21126.893)" fill="#ffe4a7"/>
+      </g>
+    </g>
+    <g id="Group_4955" data-name="Group 4955" transform="translate(7679.82 -4423.204)">
+      <path id="Path_14099" data-name="Path 14099" d="M68.64,152.381a8.836,8.836,0,0,1,17.129-3.047,8.836,8.836,0,0,1,17.13,3.047c0,12.82-17.13,19.586-17.13,19.586S68.64,164.923,68.64,152.381Zm0,0" transform="translate(3398 -16912)" fill="#fc5557"/>
+      <path id="Path_14100" data-name="Path 14100" d="M231.694,143.547a8.838,8.838,0,0,0-8.295,5.787v22.633s17.13-6.766,17.13-19.586a8.835,8.835,0,0,0-8.835-8.835Zm0,0" transform="translate(3260.371 -16912)" fill="#e21e28"/>
+      <path id="Path_14101" data-name="Path 14101" d="M253.889,248.167a10.444,10.444,0,1,1-10.444-10.444A10.444,10.444,0,0,1,253.889,248.167Zm0,0" transform="translate(3251.832 -16995.752)" fill="#fff"/>
+      <path id="Path_14102" data-name="Path 14102" d="M327.335,237.723h0v20.888h0a10.444,10.444,0,1,0,0-20.888Zm0,0" transform="translate(3167.942 -16995.754)" fill="#e9edf5"/>
+      <path id="Path_14103" data-name="Path 14103" d="M282.524,278.715h-4.215V274.5h-4.317v4.215h-4.215v4.317h4.215v4.215h4.317v-4.215h4.215Zm0,0" transform="translate(3219.126 -17028.457)" fill="#fb2"/>
+      <path id="Path_14104" data-name="Path 14104" d="M329.493,278.715V274.5h-2.161v12.747h2.161v-4.215h4.215v-4.317Zm0,0" transform="translate(3167.942 -17028.457)" fill="#ffa300"/>
+    </g>
+  </g>
+</svg>

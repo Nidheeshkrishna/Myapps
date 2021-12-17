@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "888608926699",
+    "project_id": "mastapp-1fd01",
+    "storage_bucket": "mastapp-1fd01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888608926699:android:457154ce1e915c80aa47ae",
+        "android_client_info": {
+          "package_name": "in.matsapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888608926699-c92p6fv2bi2t0gilrc3bkigfd9affb04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByvXVb2f2l6ICLgKQFjOREqs7I21xG118"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888608926699-c92p6fv2bi2t0gilrc3bkigfd9affb04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888608926699:android:a058055900d09f82aa47ae",
+        "android_client_info": {
+          "package_name": "in.matsapp.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888608926699-c92p6fv2bi2t0gilrc3bkigfd9affb04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByvXVb2f2l6ICLgKQFjOREqs7I21xG118"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888608926699-c92p6fv2bi2t0gilrc3bkigfd9affb04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
